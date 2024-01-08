@@ -3,4 +3,4 @@
     <img src="preview.png" alt="screenshot">
   </a>
 
-  <h1 align="center"><a href="https://mushketov.github.io/Nike/" target="_blank">Nike</a></h3>
+  <h1 align="center"><a href="https://mushketov.github.io/Nike/" target="_blank">Nike (не доделан)</a></h3>
